@@ -1,0 +1,22 @@
+{
+  "uuid": "a76bb85e-62e5-4c3d-840a-cd65d6dbce29",
+  "shortName": "Luddig Tid",
+  "longName": "Luddig Tid",
+  "companyName": "piksel bitworks",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_luddig_tid.png"
+      }
+    ]
+  }
+}
