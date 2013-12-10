@@ -21,7 +21,7 @@ static void set_layer_sizes(int rows) {
   if(rows == 1) {
     layer_set_hidden((Layer *)s_data.label, true);
     layer_set_bounds((Layer *)s_data.label_bold,
-      GRect(0, -5, frame.size.w, 140));
+      GRect(0, -2, frame.size.w, 140));
   }
   else if(rows == 2) {
     layer_set_hidden((Layer *)s_data.label, false);
